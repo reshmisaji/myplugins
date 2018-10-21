@@ -1,0 +1,11 @@
+alias ./zshrc="vim ~/.zshrc"
+alias ./vimrc="vim ~/.vimrc"
+alias add="git add"
+alias commit="git commit"
+alias n="node"
+alias push="git push"
+alias c="clear;ls" 
+alias mcd=". ~/projects/shell_scripts/createDirectory.sh"
+alias .="~"
+alias v="vim"
+
